@@ -6,8 +6,9 @@
     <title>Bella - Your AI Companion</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="chatStyles.css">
-    <!-- 引入 Font Awesome 图标库，用于麦克风图标 -->
+    <!-- Font Awesome Icons for microphone and other icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <meta name="developer" content="Team Yamikage">
 </head>
 <body>
 
@@ -36,18 +37,19 @@
             <p id="transcript"></p>
         </div>
 
-        <!-- 底部麦克风和链接 -->
+        <!-- Footer with microphone and credits -->
         <footer class="bottom-bar">
             <button class="mic-button" id="mic-button" aria-label="Start Listening">
                 <i class="fas fa-microphone"></i>
             </button>
+            <div class="credits">Developed By Team Yamikage</div>
         </footer>
 
         <!-- 聊天控制面板 -->
         <div class="chat-control-panel">
             <button id="chat-toggle-btn" class="control-btn primary">
                 <i class="fas fa-comments"></i>
-                <span>聊天</span>
+                <span>Chat</span>
             </button>
             <button id="chat-test-btn" class="control-btn secondary">
                 <i class="fas fa-paper-plane"></i>

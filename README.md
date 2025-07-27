@@ -1,21 +1,24 @@
 <div align="center">
   <img width="256" height="384" alt="Bella AI" src="https://github.com/user-attachments/assets/fc8f2ba4-43c5-4865-90d9-8408f1c23edf" />
   
-  # 贝拉 (Bella) AI
+  # Bella AI
   
-  **你的数字伴侣，正在唤醒** ✨
+  **Your Digital Companion, Awakening** ✨
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Node.js](https://img.shields.io/badge/Node.js-22.16.0-green.svg)](https://nodejs.org/)
   [![Status](https://img.shields.io/badge/Status-Alpha-orange.svg)]()
   
+  **Developed By Team Yamikage**
+  **Lead Developer: Shashank**
+  
 </div>
 
 ---
 
-## 🚀 快速开始
+## 🚀 Quick Start
 
-### 一键启动
+### Quick Launch
 ```bash
 # 克隆项目
 git clone <repository-url>
